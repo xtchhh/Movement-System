@@ -132,8 +132,6 @@ public class PlayerController : MonoBehaviour
 
     private void OnDrawGizmos()
     {
-        Gizmos.DrawSphere(transform.position + transform.up * aboveTransform, radius);
-
         if (isGrounded())
         {
             Gizmos.DrawSphere(transform.position + -transform.up * maxDistance, radius);
