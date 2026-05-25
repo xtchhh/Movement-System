@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 24ab6226dee9d204d999b6b73c0e77b3
-timeCreated: 1470374008
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Hanging Rack_New.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:def9523bc3f14abd813d991b16a36f2f024f1438886c0ef408d638de53cc7d6c
+size 389

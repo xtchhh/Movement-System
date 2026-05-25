@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: c6029981137bd4653b2149d26518cf28
-timeCreated: 1552661321
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 4300000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 142076
-  packageName: 'Conifers [BOTD]'
-  packageVersion: 2.01
-  assetPath: Assets/Forst/Conifers [BOTD]/Sources/Conifer Bare/SM Conifer Bare LOD1.asset
-  uploadId: 649803
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a56efb2f439b1c4031de84f088665590b4f8c3bdfcdd98219657ea2d4e13886
+size 430

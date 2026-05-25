@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 058aedb896718dc4ba730a0fd7e4403c
-timeCreated: 1470373679
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Texture/Materials/Appliances UV New.mat
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6edc8001d76b08f8e0a790340cc6c351661f1cc10d9d8b6bfb720466f994ecc
+size 386

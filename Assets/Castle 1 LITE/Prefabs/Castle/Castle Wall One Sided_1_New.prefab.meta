@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c80b398710b58654bb57ade326959d81
-timeCreated: 1470373349
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Castle/Castle Wall One Sided_1_New.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:64d4873a3b33b13d88cdce601977b87e7fd3d52d094bcc06fc3f0d1438afda99
+size 396

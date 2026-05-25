@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 0440c5d1f3831224d8117e87762b063f
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Weapons, Tools/Materials/Toolkit
-    UV Alt 2.mat
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc14b66268bd951599fe4934a157f33e788d1710c06c894c81209a934bf36a68
+size 372

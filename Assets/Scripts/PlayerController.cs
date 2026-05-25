@@ -45,6 +45,7 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetBool("isRunning", true);
             walkSpeed = sprintSpeed;
+            Debug.DrawRay(transform.position + transform.up * aboveTransform, -transform.up, Color.orange, 2f);
         }
     }
 
@@ -141,8 +142,6 @@ public class PlayerController : MonoBehaviour
 
     private bool isGrounded()
     {
-        Vector3 origin = transform.position + transform.up * aboveTransform;
-        Ray ray = new Ray(origin, -transform.up);
         if (Physics.SphereCast(transform.position + transform.up * aboveTransform, radius, -transform.up, out RaycastHit hit, maxDistance))
             return true;
         else

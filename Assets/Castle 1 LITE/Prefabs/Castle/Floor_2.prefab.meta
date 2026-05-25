@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: eb58b957e9f210f4ab782dc2044d4ae8
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Castle/Floor_2.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:c445d02d8f4e7fea89ef6238ac16fe510a9ce8a134338be45a214da997273d61
+size 333

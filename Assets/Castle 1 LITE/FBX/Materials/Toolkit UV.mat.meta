@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 82f56cbdc751f6542ad1bd3a745955d0
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/FBX/Materials/Toolkit UV.mat
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b51b577209f43c4d084aea3d4ed166c345947564819cf9c2ad46231baf871a
+size 332

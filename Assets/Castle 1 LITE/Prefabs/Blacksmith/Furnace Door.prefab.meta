@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: bfaad59e6920a8e40be6c2670b7c5c92
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Furnace Door.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb46c35b87e8ebc4c7bbc3557c8cfa70f28233a4f24547d4a1e7c094632cbab
+size 342

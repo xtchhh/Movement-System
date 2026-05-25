@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f8e99d5d058296a47978b1e80826d2d7
-timeCreated: 1470373356
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Castle/2-Way Stairway R_New.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:999665e82f3a47e030d1af45870dbacae1a03efb4864bccc15f1da7b3173ffe0
+size 389

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 54a15f89fea90c649813834c6b485bcc
-timeCreated: 1470373408
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Castle/Gatehouse_New.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eee5799f5f570878557d55cf0bc965cac34d7dd754ae8890d7f9577d0b9ecd1
+size 382

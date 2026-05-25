@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 2578427a6b8557e46bc48f4ef43b5816
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Weapons, Tools/Pickaxe.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:87886748f148f6d7de399f359f4eaa697a3b18ceba072c93a0de57fe2dba2b35
+size 352

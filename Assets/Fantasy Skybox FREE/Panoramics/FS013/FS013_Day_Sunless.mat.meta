@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 97fca95f33987e548be9dd7c03cb1a96
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18353
-  packageName: Fantasy Skybox FREE
-  packageVersion: 1.6.5
-  assetPath: Assets/Fantasy Skybox FREE/Panoramics/FS013/FS013_Day_Sunless.mat
-  uploadId: 699843
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1b7fcdb3ee0a0b76a5bab99230c13d758e43e56f4748916548082d6c562c27
+size 394

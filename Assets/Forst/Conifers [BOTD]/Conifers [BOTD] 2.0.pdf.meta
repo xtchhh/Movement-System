@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 05e00f5e72873714cb24fb1e7b01ffaa
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 142076
-  packageName: 'Conifers [BOTD]'
-  packageVersion: 2.01
-  assetPath: Assets/Forst/Conifers [BOTD]/Conifers [BOTD] 2.0.pdf
-  uploadId: 649803
+version https://git-lfs.github.com/spec/v1
+oid sha256:910d58f3660d5dfbb271561d0f894e336b08706a02596850ec4393a94b9a42ed
+size 352

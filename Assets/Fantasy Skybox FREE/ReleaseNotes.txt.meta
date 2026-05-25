@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f4bb2358699d96a43b3bfb9dcd59213f
-timeCreated: 1434912371
-licenseType: Store
-TextScriptImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18353
-  packageName: Fantasy Skybox FREE
-  packageVersion: 1.6.5
-  assetPath: Assets/Fantasy Skybox FREE/ReleaseNotes.txt
-  uploadId: 699843
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6c2a6060555695b737a82df5680e9189e6ae0f81725e8215c8f5d0542d17a1
+size 369

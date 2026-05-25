@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 76a222500999ee64a9a7131f4af0d64c
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Weapons, Tools/Materials/Basic
-    Sword UV Alt Color.mat
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f33086d5b15f7a6811d58af732f6b836f620d3118ea3e5eaa3aaabb21726db7
+size 380

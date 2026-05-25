@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: a3bb011b1ddf2e34a846de943405a12a
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/FBX/Materials/Bridge.mat
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b8439ff6e1c70f300db166eafc4cd2ae10b8cdf44fa6b4f2cd4a0aae43bf149
+size 328

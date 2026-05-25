@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: b7bfe0796a8414c10a967a3cc72ebddc
-timeCreated: 1552684831
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 4300000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 142076
-  packageName: 'Conifers [BOTD]'
-  packageVersion: 2.01
-  assetPath: Assets/Forst/Conifers [BOTD]/Sources/Conifer Medium/SM Conifer Medium
-    LOD1.asset
-  uploadId: 649803
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e271e94d67b1bc31609b35f8b598d56c98dea32f1bd7b63b8c96e371c865495
+size 438

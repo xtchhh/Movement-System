@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 11d782d83e0a6c041a16b355857fbb6d
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Weapons, Tools/Materials/Basic
-    Sword UV Alt 2 Light.mat
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:02b3f742cf35a4862dcb7de20f6611caa8638c271157f08da59a1f4a1866279f
+size 382

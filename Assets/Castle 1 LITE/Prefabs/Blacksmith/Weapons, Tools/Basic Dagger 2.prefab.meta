@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 8efd96611e68b6540911bbf0f07c5eda
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Weapons, Tools/Basic Dagger
-    2.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6eb35869bedc9cba797feb1ffde1f3c1961c9807ab85bf6aca5a2578609db1
+size 363

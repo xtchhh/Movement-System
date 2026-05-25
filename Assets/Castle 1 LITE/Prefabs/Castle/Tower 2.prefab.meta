@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 0ad573ef122e81c4181af0f137b71a0f
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Castle/Tower 2.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:f068fa938845298a5ee1aefdebc1662d73bba8f191846b18b680d86041af19fc
+size 333

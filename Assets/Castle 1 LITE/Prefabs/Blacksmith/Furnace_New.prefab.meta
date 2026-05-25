@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 25e33a73003213d459352a83a7be76c3
-timeCreated: 1470374019
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Furnace_New.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:d72e6dcb9951db4ce9cadf2b767d1e77e019b75ede1a77de89372035b59ff7c9
+size 384

@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: d84c994c78232f44ab8255b9cbb23028
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 23699
-  packageName: Castle Supply LITE
-  packageVersion: 1.75
-  assetPath: Assets/Castle 1 LITE/Prefabs/Blacksmith/Cooking Pole.prefab
-  uploadId: 130658
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60597a940a569329d3cbaf5977aa970f5382cc27e3341cd202b75b0e5fbb350
+size 342
