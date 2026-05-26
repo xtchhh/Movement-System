@@ -28,4 +28,5 @@ When the player isn't jumping, velocity is zero - so despite this being called e
 
 The gravity ties it all together: I created a conditional where if the player isn't grounded, gravity is added (`+=`) onto velocity, multiplied by `Time.deltaTime` for consistency. If the player is grounded, velocity equals zero, so the translate vector is just `(0, 0, 0)`.
 
+##My Assessment
 There is definitely a better way to explain all of this, but this is how I articulate it as of now. I'm sure as I progress as a programmer I'll be better spoken.
